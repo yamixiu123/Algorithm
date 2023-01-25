@@ -1,0 +1,4 @@
+﻿  源.c
+D:\C_languange\Algorithm\binary_search\binary_search\源.c(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\C_languange\Algorithm\binary_search\binary_search\源.c(27): warning C4715: “binary_search”: 不是所有的控件路径都返回值
+  binary_search.vcxproj -> D:\C_languange\Algorithm\binary_search\Debug\binary_search.exe

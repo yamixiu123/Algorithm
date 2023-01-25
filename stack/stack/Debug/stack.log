@@ -1,0 +1,4 @@
+﻿  源.c
+D:\C_languange\Algorithm\stack\stack\源.c(33,3): warning C4033: “pop”必须返回值
+D:\C_languange\Algorithm\stack\stack\源.c(36): warning C4715: “pop”: 不是所有的控件路径都返回值
+  stack.vcxproj -> D:\C_languange\Algorithm\stack\Debug\stack.exe
