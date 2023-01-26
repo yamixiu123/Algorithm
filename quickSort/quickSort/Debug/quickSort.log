@@ -1,0 +1,4 @@
+﻿  源.c
+D:\C_languange\Algorithm\quickSort\quickSort\源.c(11,23): warning C4047: “初始化”:“char”与“void *”的间接级别不同
+D:\C_languange\Algorithm\quickSort\quickSort\源.c(12,23): warning C4047: “初始化”:“char”与“void *”的间接级别不同
+  quickSort.vcxproj -> D:\C_languange\Algorithm\quickSort\Debug\quickSort.exe
