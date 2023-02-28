@@ -1,0 +1,4 @@
+﻿  源.c
+D:\C_languange\Algorithm\Graph\Graph\源.c(43,3): warning C4033: “dequeue”必须返回值
+D:\C_languange\Algorithm\Graph\Graph\源.c(46): warning C4715: “dequeue”: 不是所有的控件路径都返回值
+  Graph.vcxproj -> D:\C_languange\Algorithm\Graph\Debug\Graph.exe
