@@ -34,7 +34,7 @@ void prim(int n ) {
 
 		for (int i = 1; i <= n; i++) {
 			if (color[i] != BLACK && G[u][i] != -1) {
-				if (G[u][i]<d[i])
+				if (G[u][i]<d[i])//新节点的加入让 该i点最短边的权值出现
 				{
 					color[i] = GRAY;
 					d[i] = G[u][i];
